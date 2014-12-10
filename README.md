@@ -1,4 +1,4 @@
 n00b
 ====
 
-A test repository
+A test repository.
